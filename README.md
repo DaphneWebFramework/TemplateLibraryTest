@@ -1,6 +1,6 @@
 # TemplateLibraryTest
 
-[![test](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test.yml/badge.svg)](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test.yml)
+[![Backend Tests](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test-backend.yml/badge.svg)](https://github.com/DaphneWebFramework/TemplateLibraryTest/actions/workflows/test-backend.yml)
 
 This repository contains tests for the [TemplateLibrary](https://github.com/DaphneWebFramework/TemplateLibrary) library.
 
